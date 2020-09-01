@@ -226,7 +226,7 @@ if(BUILD_TESTS)
     tests/testTimer.cpp
     tests/testTracker.cpp
     tests/testUtilsOpenCV.cpp
-    tests/testInitializationFromImu.cpp
+    # tests/testInitializationFromImu.cpp
     tests/testVioBackEnd.cpp
     tests/testVioBackEndParams.cpp
     tests/testVisionFrontEndParams.cpp
